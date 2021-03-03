@@ -1,3 +1,4 @@
+/* The asterisk applied the included attributes to all of the page. The body tag is then given a background colour, and the header sets its own background colour, font, and text colour.*/
 * {
   box-sizing: border-box;
   padding: 0;
@@ -16,6 +17,7 @@ header {
   color: #ffffff;
 }
 
+/* The below is being applied to a h1 tag inside of the header tag. This is known as a descendant combinator and can be seen below.*/
 header h1 {
   display: inline-block;
   font-size: 48px;
@@ -46,6 +48,7 @@ a {
   text-decoration: none;
 }
 
+/*The hero class is pulling the image from my local files and then changing the position and size of it.*/
 .hero {
   height: 800px;
   width: 100%;
