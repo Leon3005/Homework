@@ -1,4 +1,6 @@
-# Homework - Week 01
+# Horiseon Project - HW01
+
+## Description
 
 This is my submission for the first week homework. Some fo the things it involved the below:
 
@@ -13,6 +15,6 @@ This is my submission for the first week homework. Some fo the things it involve
 
 ## Screenshots
 
-## Github Link
+## Project Github Link
 
 [GitHub](https://leon3005.github.io/Homework-1/)
