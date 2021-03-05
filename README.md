@@ -15,6 +15,14 @@ This is my submission for the first week homework. Some fo the things it involve
 
 ## Screenshots
 
-## Project Github Link
+Top half of the page:
+
+![Alt text](/assets/images/horiseontophalf.png "Top half of the page")
+
+Bottom half of the page:
+
+![Alt text](/assets/images/horiseonbottomhalf.png "Bottom half of the page")
+
+## Project Github Pages Link
 
 [GitHub](https://leon3005.github.io/Homework-1/)
