@@ -25,4 +25,4 @@ Bottom half of the page:
 
 ## Project Github Pages Link
 
-[GitHub](https://leon3005.github.io/Homework-1/)
+[GitHub](https://leon3005.github.io/Horiseon_Website_Refactor/)
